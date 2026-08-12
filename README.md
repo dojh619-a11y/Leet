@@ -14,11 +14,11 @@ A structured repository of LeetCode solutions, automatically synchronized and ca
 
 | # | Title | Difficulty | Solutions |
 |---|---|---|---|
-| 0001 | [Two Sum](0001-two-sum/) | <span style="color:#2cbb5d">Easy</span> | [Java](leetcode/problems/0001-two-sum/Solution_2.java) |
+| 0001 | [Two Sum](0001-two-sum/) | <span style="color:#2cbb5d">Easy</span> | [Java](leetcode/problems/0001-two-sum/Solution_3.java) |
 
 ### Hash Table
 
 | # | Title | Difficulty | Solutions |
 |---|---|---|---|
-| 0001 | [Two Sum](0001-two-sum/) | <span style="color:#2cbb5d">Easy</span> | [Java](leetcode/problems/0001-two-sum/Solution_2.java) |
+| 0001 | [Two Sum](0001-two-sum/) | <span style="color:#2cbb5d">Easy</span> | [Java](leetcode/problems/0001-two-sum/Solution_3.java) |
 
