@@ -1,0 +1,18 @@
+{
+  "problems": {
+    "0001": {
+      "id": "0001",
+      "title": "Two Sum",
+      "slug": "two-sum",
+      "difficulty": "Easy",
+      "tags": [
+        "Array",
+        "Hash Table"
+      ],
+      "folder": "0001-two-sum",
+      "solutions": {
+        "Java": "leetcode/problems/0001-two-sum/Solution_2.java"
+      }
+    }
+  }
+}
